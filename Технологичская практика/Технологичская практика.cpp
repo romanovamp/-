@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World in master!\n";
+    std::cout << "Hello World!\n";
+	std::cout << "commit1\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
